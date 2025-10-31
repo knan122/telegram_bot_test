@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot-test",
+  "version": "1.0.0",
+  "description": "Telegram activation bot - test on Acode",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "sqlite3": "^5.1.6",
+    "axios": "^1.5.0"
+  }
+}
